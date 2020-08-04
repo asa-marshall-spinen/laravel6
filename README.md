@@ -1,4 +1,4 @@
-##Laravel from Scratch
+## Laravel from Scratch
 
 This is just some test code I am using to learn the Laravel framework for PHP. This code is sourced
  from "Laravel from Scratch", a training video on Laracasts. 
